@@ -12,5 +12,6 @@ Programowanie obiektowe rozumiem w pełni i staram sie z niego korzystać kiedy 
 Z pythonem miałem styczność na uczelni, gdzie był organizowany kurs z podstaw tego języka. W domu rozwijałem też wiedzę z tego zakresu,
 ale bardziej skupiałem się na uczelni i c++.
 Tę strukturę danych mogę zaimplementowac również w pythonie, ale potrzebowałbym na to więcej czasu.
+W folderze debug znajduje się plik .exe z programem.
 
 Artur Szczypta
