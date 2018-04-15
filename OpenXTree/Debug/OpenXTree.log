@@ -1,0 +1,6 @@
+﻿  adding.cpp
+c:\users\komputer\source\repos\openxtree\openxtree\adding.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\komputer\source\repos\openxtree\openxtree\adding.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\komputer\source\repos\openxtree\openxtree\adding.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\komputer\source\repos\openxtree\openxtree\adding.cpp(100): warning C4018: '<': signed/unsigned mismatch
+  OpenXTree.vcxproj -> c:\users\komputer\source\repos\OpenXTree\Debug\OpenXTree.exe
