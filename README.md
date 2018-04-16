@@ -6,7 +6,7 @@ ponieważ nie chciałem popełnić jakiegoś błędu przy komentowaniu i też ch
 developer Pythona, czy JavaScriptu nie musiał się dużo trudzić nad zrozumieniem kodu :D.
 
 Zdaję sobie sprawę, że w pracy w OpenX jest używany JS i python, a nie c++. Od jakiegoś czasu uczę się c++, napisałem pare ciekawych
-programów i aplikacji, zaczałem się uczyć bibliotek graficznych (SFML), ale nie wrzucałem tych wszystkich rzeczy na githuba. 
+programów i aplikacji (w tym wykorzystujące SQL), zaczałem się uczyć bibliotek graficznych (SFML), ale nie wrzucałem tych wszystkich rzeczy na githuba. 
 Programowanie obiektowe rozumiem w pełni i staram sie z niego korzystać kiedy tylko mogę. Sądzę, ze nauka idzie mi szybko i lubię to robić.
 
 Z pythonem miałem styczność na uczelni, gdzie był organizowany kurs z podstaw tego języka. W domu rozwijałem też wiedzę z tego zakresu,
